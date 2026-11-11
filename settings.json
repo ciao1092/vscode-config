@@ -26,4 +26,6 @@
         ],
     },
     "C_Cpp.clang_format_style": "{ BasedOnStyle: Google, BreakBeforeBraces: Attach, IndentWidth: 3, TabWidth: 3, ColumnLimit: 60, UseTab: Always, PointerAlignment: Left }",
+    "workbench.activityBar.compact": false,
+    "workbench.activityBar.location": "top",
 }
